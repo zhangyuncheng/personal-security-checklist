@@ -553,19 +553,9 @@
     这一点令人惊讶。与电子邮件相关的欺诈正在上升，如果不采取基本的防护措施，您可能会面临风险。
     
 
-    If a hacker gets access to your emails, it provides a gateway for your other
-    accounts to be compromised (through password resets), therefore email security
-    is paramount for your digital safety.
+    如果黑客获取了你的电子邮件，就可能通过密码重置等方式轻易攻破你其他的账户。因此，确保电子邮件安全对于保护你的数字隐私至关重要。
 
-
-    The big companies providing "free" email service, don't have a good reputation
-    for respecting users privacy: Gmail was caught giving
-    [third parties full access](https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442)
-    to user emails and also [tracking all of your purchases](https://www.cnbc.com/2019/05/17/google-gmail-tracks-purchase-history-how-to-delete-it.html).
-    Yahoo was also caught scanning emails in real-time [for US surveillance agencies](http://news.trust.org/item/20161004170601-99f8c)
-    Advertisers [were granted access](https://thenextweb.com/insider/2018/08/29/both-yahoo-and-aol-are-scanning-customer-emails-to-attract-advertisers)
-    to Yahoo and AOL users messages to “identify and segment potential customers by picking up on contextual buying signals, and past purchases.”
-
+    然而，一些提供“免费”电子邮件服务的大公司在尊重用户隐私方面的表现并不令人满意。比如，谷歌的 Gmail 曾被曝光向第三方完全开放用户的电子邮件权限，还在悄悄追踪你的所有购买记录。雅虎也曾被发现实时扫描用户的电子邮件，并将这些数据提供给美国的监控机构；广告商通过这些邮件，能够“分析购买信号和历史购买记录”，进而识别和细分潜在客户。
   checklist:
   - point: Have more than one email address
     priority: Essential
