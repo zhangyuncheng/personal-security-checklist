@@ -545,15 +545,12 @@
 
 - title: Email
   slug: email
-  description: Protecting the gateway to your online accounts
+  description: 保护您的邮箱账号
   icon: email
   intro: >-
-    Nearly 50 years since the first email was sent, it's still very much a big part
-    of our day-to-day life, and will continue to be for the near future. So considering
-    how much trust we put in them, it's surprising how fundamentally insecure this
-    infrastructure is. Email-related fraud
-    [is on the up](https://www.csoonline.com/article/3247670/email/email-security-in-2018.html),
-    and without taking basic measures you could be at risk.
+    距离第一封电子邮件的发送已经近50年了,它仍然是我们日常生活中非常重要的一部分,
+    并将在可见的未来继续如此。考虑到我们对电子邮件的信任程度，它的基础设施居然如此不安全， 
+    这一点令人惊讶。与电子邮件相关的欺诈正在上升，如果不采取基本的防护措施，您可能会面临风险。
     
 
     If a hacker gets access to your emails, it provides a gateway for your other
@@ -573,10 +570,7 @@
   - point: Have more than one email address
     priority: Essential
     details: >-
-      Consider using a different email address for security-critical communications from trivial mail such
-      as newsletters. This compartmentalization could reduce the amount of damage caused by a data breach,
-      and also make it easier to recover a compromised account.
-
+      考虑使用不同的电子邮件地址进行与时事通讯等琐碎邮件不同的安全关键通信。这种分隔可以减少数据泄露造成的损害，并使恢复受影响的帐户变得更容易。
   - point: Keep Email Address Private
     priority: Essential
     details: >-
@@ -711,7 +705,7 @@
       local IP blacklist and a spam URI realtime block lists to filter out malicious hyperlinks.
   color: teal
   softwareLinks:
-    - title: Secure Email Providers
+    - title: 安全电子邮件提供商
       url: https://github.com/Lissy93/awesome-privacy#encrypted-email
     - title: Mail Forwarding
       url: https://github.com/Lissy93/awesome-privacy#anonymous-mail-forwarding
